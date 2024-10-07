@@ -1,6 +1,6 @@
 # Telugu Hero Hangman Game 🎮
 
-Welcome to the **Telugu Hero Hangman Game**! This is a classic Hangman game where you guess the names of famous Telugu cinema heroes. Every correct guess saves the man from hanging, while every wrong guess brings him closer to doom! Test your knowledge of Telugu cinema and try to save the day by guessing the hero's name before it's too late.
+Welcome to the **Telugu Hero Hangman Game**! This is a classic Hangman game where you guess the names of famous Telugu cinema heroes.
 
 ## Table of Contents 📖
 
@@ -34,13 +34,11 @@ The Telugu Hero Hangman Game is a fun and engaging way to test your knowledge of
 ## Screenshots 🖼️
 
 Here’s a screenshot of the gameplay:
-![](![Screenshot_7-10-2024_23459_colab research google com](https://github.com/user-attachments/assets/a28852bd-7489-46a1-a40a-9b542e91e559))  
-Desktop version
+- **Desktop version**
+![Screenshot_7-10-2024_23459_colab research google com](https://github.com/user-attachments/assets/a28852bd-7489-46a1-a40a-9b542e91e559))  
 
-![]()  
-Mobile Version
-
-![Game Output](path_to_output_image)
+- **Mobile Version**
+![WhatsApp Image 2024-10-07 at 11 49 47 PM](https://github.com/user-attachments/assets/70f5d566-0bfc-4f36-8a34-841eb22c328b)
 
 ## Built With 🛠️
 
@@ -60,4 +58,4 @@ Mobile Version
 
 ---
 
-Feel free to use and share this game! Happy coding and Telugu hero guessing!
+Feel free to use and share this game! Happy coding and Telugu hero guessing:)
