@@ -4,12 +4,12 @@ Welcome to the **Telugu Hero Hangman Game**! This is a classic Hangman game wher
 
 ## Table of Contents 📖
 
-- [Overview](#overview)
-- [Gameplay Instructions](#gameplay-instructions)
-- [Features](#features)
+- [Overview 🎯](#overview-)
+- [Gameplay Instructions 🕹️](#gameplay-instructions-)
+- [Features ✨](#features-)
 - [Screenshots 🖼️](#screenshots-️)
 - [Built With 🛠️](#built-with-️)
-- [Author 👨🏻‍💻](#author-)
+- [Links 📌](#links-)
 
 ## Overview 🎯
 
@@ -33,9 +33,9 @@ The Telugu Hero Hangman Game is a fun and engaging way to test your knowledge of
 
 ## Screenshots 🖼️
 
-Here’s a screenshot of the gameplay:
+Here’s a screenshot of the gameplay:<br>
 - **Desktop version**
-![Screenshot_7-10-2024_23459_colab research google com](https://github.com/user-attachments/assets/a28852bd-7489-46a1-a40a-9b542e91e559))  
+![Screenshot_7-10-2024_23459_colab research google com](https://github.com/user-attachments/assets/a28852bd-7489-46a1-a40a-9b542e91e559)  
 
 - **Mobile Version**
 ![WhatsApp Image 2024-10-07 at 11 49 47 PM](https://github.com/user-attachments/assets/70f5d566-0bfc-4f36-8a34-841eb22c328b)
@@ -45,16 +45,12 @@ Here’s a screenshot of the gameplay:
 - **Python**: The game logic is implemented in Python.
 - **Random Library**: To select a random hero name each time.
 - **ASCII Art**: To display the hangman stages as text graphics.
+  
+## Links 📌
 
-## Author 👨🏻‍💻
-
-- Check out my other projects:
-  - [Project 1](#)
-  - [Project 2](#)
-  - [Project 3](#)
-
-- Let's connect:  
-  [LinkedIn](https://www.linkedin.com/in/doondi/) 
+- Live Site URL: https://colab.research.google.com/drive/1M5JliKTyV8JBybNlqfx0b6wqxTGvFGfa?usp=drive_link
+- Project Repo: https://github.com/doondigangadhar30/hangman
+- Let's connect: [LinkedIn](https://www.linkedin.com/in/doondi/) 
 
 ---
 
